@@ -1,5 +1,7 @@
 # 👋 Merhaba, ben Enes!
 
+![ZyPoo26](img/github-header-banner.png)
+
 Hemen Hemen yeni başladığım yazılım hayatımda; geliştirmeye tutkuyla bağlı, modern teknolojilerle çalışan bir yazılım geliştiriciyim. Angular ve .NET Core arasında tam entegrasyon, dinamik form yapıları ve kullanıcı deneyimi optimizasyonu konusunda çalışmalarım var. Her satır kodun mantığını sorgular, estetik ve işlevselliği bir arada sunmaya çalışırım.
 
 ## 🚀 Hakkımda Kısaca
@@ -15,11 +17,7 @@ Hemen Hemen yeni başladığım yazılım hayatımda; geliştirmeye tutkuyla ba�
 
 ## 🛠️ Kullandığım Teknolojiler
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)![Laravel](https://img.shields.io/badge/-Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 
 ## 📂 Öne Çıkan Projeler
@@ -35,9 +33,8 @@ Hemen Hemen yeni başladığım yazılım hayatımda; geliştirmeye tutkuyla ba�
 
 ## 📫 Bana Ulaşın
 
-- 💼 [LinkedIn](www.linkedin.com/in/enes-demir-26-zypoo)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-demir-26-zypoo) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/demr_ens)
 - 📧 enesssdemirr@gmail.com
-
----
+-
 
 💡 Her yeni projede öğrenmeye ve gelişmeye açık bir geliştirici olarak, kodun mantığını ve kullanıcı deneyimini birlikte optimize etmeye devam ediyorum. Profilimi ziyaret ettiğiniz için teşekkürler!
