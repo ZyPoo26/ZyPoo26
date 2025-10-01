@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Enes!
+
 
 ![ZyPoo26](img/github-header-banner.png)
 
