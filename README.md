@@ -19,7 +19,7 @@ Hemen Hemen yeni başladığım yazılım hayatımda; geliştirmeye tutkuyla ba�
 ---
 ## 🛠️ Kullandığım Teknolojiler
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)![Laravel](https://img.shields.io/badge/-Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-F72C1F?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ---
 ## 📂 Öne Çıkan Projeler
